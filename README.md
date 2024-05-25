@@ -6,7 +6,7 @@ This role installs Ansible on remote server using pip
 Requirements
 ------------
 
-- No requirements
+- needs pip package manager
 
 Role Variables
 --------------
@@ -16,7 +16,7 @@ Role Variables
 Dependencies
 ------------
 
-- No dependencies
+- pip 
 
 Example Playbook
 ----------------
